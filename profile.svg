@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Profile image placeholder</title>
+  <desc id="desc">Abstract profile silhouette on a blue gradient background for Sathvica Kothapalli.</desc>
+  <defs>
+    <linearGradient id="Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2f5d9d" />
+      <stop offset="100%" stop-color="#63a4ff" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="300" rx="24" ry="24" fill="url(#Gradient)" />
+  <circle cx="220" cy="170" r="90" fill="#ffffff" opacity="0.92" />
+  <ellipse cx="220" cy="255" rx="120" ry="35" fill="#ffffff" opacity="0.85" />
+  <path d="M180 140c0-32 28-58 62-58s62 26 62 58" fill="#2f5d9d" opacity="0.85" />
+  <path d="M120 245c-1-42 35-75 78-75h44c43 0 79 33 78 75v14h-200v-14z" fill="#2f5d9d" opacity="0.88" />
+  <circle cx="620" cy="110" r="64" fill="#ffffff" opacity="0.85" />
+  <rect x="540" y="160" width="160" height="80" rx="20" fill="#ffffff" opacity="0.85" />
+  <text x="450" y="65" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">Sathvica</text>
+  <text x="450" y="105" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="24" text-anchor="middle">PhD Student • Informatics</text>
+</svg>
